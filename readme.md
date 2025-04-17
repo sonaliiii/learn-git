@@ -1,7 +1,7 @@
-#Learning GitHub Basics
-## Its cool
+# Learning GitHub Basics
+Its cool
 
-'''javaScript
+```javascript
 console.log("Enjoying the process")
 
-''''
+```
